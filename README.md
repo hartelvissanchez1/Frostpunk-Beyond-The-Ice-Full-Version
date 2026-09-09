@@ -238,3 +238,6 @@ This repository serves as the official landing page for Frostpunk: Beyond the Ic
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Frostpunk: Beyond the Ice today!**
+
+---
+**Last updated:** 2026-09-09 19:36:53 UTC
