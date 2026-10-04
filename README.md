@@ -240,4 +240,4 @@ This repository serves as the official landing page for Frostpunk: Beyond the Ic
 **Get the most recent version of Frostpunk: Beyond the Ice today!**
 
 ---
-**Last updated:** 2026-10-04 04:42:13 UTC
+**Last updated:** 2026-10-04 10:56:56 UTC
